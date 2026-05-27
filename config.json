@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterrave",
+        "uuid": 28004352,
+        "checksum": "lr1qrd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
